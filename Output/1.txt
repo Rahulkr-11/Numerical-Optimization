@@ -1,0 +1,7 @@
+Status : 
+Optimization terminated successfully;
+The returned value satisfies the termination criteria
+(using xtol = 1.48e-08 )
+Total Evaluations: 8
+Optimal Solution: x=0.500
+Objective Function Value: f(x)=0.000
